@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👨‍💻 Adrian — Licenciado en Informática
 
-<!--
-**AdraxFP/AdraxFP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional apasionado por la tecnología, con experiencia en desarrollo de software, ciberseguridad y marketing digital. Me gusta crear soluciones eficientes, seguras y funcionales, combinando habilidades técnicas con visión estratégica.
 
-Here are some ideas to get you started:
+## 🎓 Formación
 
-- 🔭 I’m currently working on Devops
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Google
-- 🤔 I’m looking for help with PHP
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Licenciado en Informática  
+- Experiencia en proyectos de desarrollo web, análisis de datos y seguridad informática
+
+## 💻 Tecnologías que domino
+
+- **Lenguajes de programación**: C++, Python, Java  
+- **Bases de datos**: SQL (MySQL, PostgreSQL)  
+- **Desarrollo web**: HTML, CSS, JavaScript  
+- **Frameworks y librerías**: React, Node.js  
+- **Ciberseguridad**: análisis de vulnerabilidades, buenas prácticas  
+- **Marketing digital**: SEO, campañas en redes sociales
+
+## 🚀 Lo que me apasiona
+
+- Optimizar sistemas y redes para mayor privacidad y rendimiento  
+- Crear páginas web modernas y funcionales  
+- Fortalecer la seguridad digital en entornos personales y empresariales  
+- Aplicar el marketing para potenciar proyectos tecnológicos
+
+## 📫 ¿Conectamos?
+
+Estoy abierto a colaborar en proyectos, resolver problemas técnicos o compartir ideas.  
+📩 Puedes escribirme a: `tuemail@ejemplo.com`
+
+---
+
+✨ *Gracias por visitar mi perfil. ¡La tecnología es mejor cuando se comparte!*

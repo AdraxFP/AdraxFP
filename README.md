@@ -23,11 +23,11 @@ Soy un profesional apasionado por la tecnología, con experiencia en desarrollo 
 - Fortalecer la seguridad digital en entornos personales y empresariales  
 - Aplicar el marketing para potenciar proyectos tecnológicos
 
-## 📫 ¿Conectamos?
+## 📫 Contacto
 
 Estoy abierto a colaborar en proyectos, resolver problemas técnicos o compartir ideas.  
-📩 Puedes escribirme a: `tuemail@ejemplo.com`
+📩 Puedes escribirme a: `adrian.franpa@gmail.com`
 
 ---
 
-✨ *Gracias por visitar mi perfil. ¡La tecnología es mejor cuando se comparte!*
+✨ *Gracias por visitar mi perfil.*
